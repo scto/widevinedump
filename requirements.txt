@@ -20,6 +20,6 @@ pysubs2==0.2.1
 requests==2.17.3
 six==1.10.0
 tqdm==4.14.0
-urllib3==1.21.1
+urllib3==1.26.5
 wrapt==1.10.10
 xmltodict==0.11.0
